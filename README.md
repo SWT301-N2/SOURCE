@@ -41,5 +41,10 @@ Welcome to the Booking Event System for FPT University! This project aims to pro
 
 ![image](https://github.com/SWT301-N2/SOURCE/assets/108606108/344fe253-0a49-49b1-a5c8-2fb0f3cd8b24)
 
+8. Task for sprint 2:
+
+![image](https://github.com/SWT301-N2/SOURCE/assets/108606108/1e688df8-dc54-4e90-bc99-6c0b6cb90436)
+
+
 
 
