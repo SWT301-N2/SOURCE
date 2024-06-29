@@ -34,16 +34,18 @@ Welcome to the Booking Event System for FPT University! This project aims to pro
 
 
 6. Task for all sprint:
-   
-![image](https://github.com/SWT301-N2/SOURCE/assets/108606108/217be3b3-8a2a-4330-b598-a7c3a1ed90e0)
 
-7. Task for sprint 1:
+ ![image](https://github.com/SWT301-N2/SOURCE/assets/108606108/6dd2ce5d-59ce-4dbb-86ec-d23a928e2633)
+
+
+8. Task for sprint 1:
 
 ![image](https://github.com/SWT301-N2/SOURCE/assets/108606108/344fe253-0a49-49b1-a5c8-2fb0f3cd8b24)
 
 8. Task for sprint 2:
 
-![image](https://github.com/SWT301-N2/SOURCE/assets/108606108/1e688df8-dc54-4e90-bc99-6c0b6cb90436)
+![image](https://github.com/SWT301-N2/SOURCE/assets/108606108/ee1db71f-a43f-49bd-a388-57650c3b302c)
+
 
 
 
